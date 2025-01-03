@@ -6,4 +6,4 @@ def clenword(word):
         return clenword(word[1:])
     return word[0] + clenword(word[1:])
 print(clenword(x))            
-
+test="add"
