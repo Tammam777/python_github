@@ -18,4 +18,4 @@ if __name__ == '__main__':
     # طباعة الأسماء
     for student in students_with_second_lowest:
         print(student)
-    print(students_with_second_lowest)    
+       
